@@ -45,6 +45,8 @@ Choose one of the following options:
 
 ## Task Breakdown
 
+Make sure to 
+
 ### Task 1: GPS Reading
 
 **Objective:** Read GPS data from the 7Semi L86-M33 module and parse NMEA sentences.
@@ -104,7 +106,7 @@ Direction: Forward
 
 ---
 
-## Advanced Task: MicroROS Integration
+## Advanced Task: MicroROS Integration (Genral Task for everyone)
 
 **Objective:** Publish your assigned sensor's readings (GPS, IMU, or Encoder) as
 ROS 2 topics from the Teensy.
@@ -160,7 +162,7 @@ Set up and run a basic rover simulation workflow using ROS 2 and Gazebo.
 
 ---
 
-# Category 3: Automation & Dashboard
+# Category 3: Automation & Dashboard (Here All the task are common for everyone and the task number rule is can be ignored here)
 
 **Theme:** Build a component or prototype for the rover's **operator dashboard /
 ground control UI**.
